@@ -1,6 +1,7 @@
 +++
 title = "O que é Deploy"
 date = "2020-07-17"
+image = "images/post/post-2.png"
 draft = false
 Categories = ["portugues", "pipeline"]
 Tags = ["portugues", "deploy", "devops"]
@@ -12,8 +13,6 @@ type = "featured"
 Esse artigo segue na série sobre ["Deploy em produção para desenvolvedores?"](https://gomex.me/categories/pipeline/), que tem como objetivo apresentar as melhores práticas para entregar em produção os produtos.
 
 Nesse artigo falaremos sobre o que é deploy e quais ambientes normalmente estão envolvidos nesse processo.
-
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/post-5.png" alt="alter-text" >}}
 
 ## O que é deploy?
 
