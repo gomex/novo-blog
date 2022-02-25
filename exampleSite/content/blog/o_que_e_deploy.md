@@ -13,6 +13,8 @@ Esse artigo segue na série sobre ["Deploy em produção para desenvolvedores?"]
 
 Nesse artigo falaremos sobre o que é deploy e quais ambientes normalmente estão envolvidos nesse processo.
 
+{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/post/post-5.png" alt="alter-text" >}}
+
 ## O que é deploy?
 
 Muito se fala sobre deploy e a maioria das pessoas que já estão, há algum tempo, na área de Tecnologia da Informação (TI) , provavelmente já tenham algum entendimento sobre o que é isso, e, quem iniciou na área há pouco, possivelmente já  captou "alguma coisa" pelo contexto.
