@@ -1,11 +1,11 @@
----
++++
 title = "O que é Deploy"
 date = "2020-07-17"
 draft = false
 Categories = ["portugues", "pipeline"]
 Tags = ["portugues", "deploy", "devops"]
 type: "featured"
----
++++
 
 ## Contextualização
 
